@@ -1,14 +1,17 @@
 # ImageColorization
 
 **Image Colorization**
+
 **CSE 144: Applied Machine Learning: Deep Learning**
+
 **Authors: Aneesh Thippa, Arya Miryala, Matthew Lo, Shaan Mistry**
+
 **Date: 06.11.2024**
+
 **Professor: Yi Zhang**
 
 **Abstract**
-   
-    This project employs deep learning techniques to develop an image colorizer, transforming grayscale images into colorized versions. Utilizing Hugging Face for dataset deployment, the Stability AI Stable Diffusion model, and fine-tuning with ControlNet, we enhance the model's performance, ensuring that the colorized images align closely with desired color schemes. This project demonstrates the effectiveness of combining state-of-the-art diffusion models with fine-tuning techniques in image colorization tasks.
+This project employs deep learning techniques to develop an image colorizer, transforming grayscale images into colorized versions. Utilizing Hugging Face for dataset deployment, the Stability AI Stable Diffusion model, and fine-tuning with ControlNet, we enhance the model's performance, ensuring that the colorized images align closely with desired color schemes. This project demonstrates the effectiveness of combining state-of-the-art diffusion models with fine-tuning techniques in image colorization tasks.
 
 **Introduction**
     Image colorization enhances the visual appeal of images and has practical applications such as restoring old photographs and improving medical imaging. The challenge lies in generating realistic and contextually accurate colors. Our approach leverages the Stability AI Stable Diffusion model and ControlNet to address this challenge. Using Hugging Face for dataset management, we aim to produce visually appealing and contextually accurate colorized images.
