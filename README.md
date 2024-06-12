@@ -7,6 +7,7 @@
 **Professor: Yi Zhang**
 
 **Abstract**
+   
     This project employs deep learning techniques to develop an image colorizer, transforming grayscale images into colorized versions. Utilizing Hugging Face for dataset deployment, the Stability AI Stable Diffusion model, and fine-tuning with ControlNet, we enhance the model's performance, ensuring that the colorized images align closely with desired color schemes. This project demonstrates the effectiveness of combining state-of-the-art diffusion models with fine-tuning techniques in image colorization tasks.
 
 **Introduction**
