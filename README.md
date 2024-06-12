@@ -1,4 +1,4 @@
-# Image Colorization Project
+# Image Colorization
 
 ## CSE 144: Applied Machine Learning: Deep Learning
 
