@@ -90,6 +90,3 @@ Our project successfully developed an image colorizer using Stability AI and Con
 
 ---
 
-## Installation
-
-1
