@@ -1,10 +1,7 @@
 # Image Colorization
 
-## CSE 144: Applied Machine Learning: Deep Learning
-
 ### Authors: Aneesh Thippa, Arya Miryala, Matthew Lo, Shaan Mistry
 ### Date: 06.11.2024
-### Professor: Yi Zhang
 
 ---
 
